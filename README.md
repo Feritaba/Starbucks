@@ -44,5 +44,10 @@ The evaluation metrics used were, accuracy, f-1 score, precision and recall. For
 2. Starbucks_Capstone_notebook.ipynb which is the python code for the project and final model that has been chosen to predict the customer response to an offer.
 3. Readme.md file
 
+## Link to the blog post:
+https://medium.com/@foroozan-akhavan/starbucks-marketing-analysis-project-13160d2d8eae
+
+## Acknowledgements:
+This project was completed as part of the Udacity Data Science Nanodegree Program. The dataset used in this project contains  data that shows customer behavior on the Starbucks rewards mobile app provided by Starbucks itself. 
 
 
